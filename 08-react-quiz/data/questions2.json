@@ -1,0 +1,2208 @@
+{
+  "html": [
+    {
+      "level": "easy",
+      "question": "What does HTML stand for?",
+      "options": [
+        "HyperText Markup Language",
+        "Hyper Transfer Markup Language",
+        "HyperTool Markup Language",
+        "HighText Machine Language"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which HTML tag is used to define a hyperlink?",
+      "options": ["<link>", "<a>", "<href>", "<hyperlink>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which tag is used to insert a line break?",
+      "options": ["<break>", "<br>", "<lb>", "<line>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What tag is used for the largest heading?",
+      "options": ["<heading>", "<h1>", "<head>", "<h6>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which attribute specifies an image source?",
+      "options": ["src", "href", "link", "img"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which HTML tag is used to display an image?",
+      "options": ["<image>", "<img>", "<pic>", "<src>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which tag defines an unordered list?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What tag is used to create a table?",
+      "options": ["<table>", "<tab>", "<tbl>", "<tb>"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which tag is used for italic text?",
+      "options": ["<i>", "<em>", "<italic>", "<it>"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What tag creates a numbered list?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "medium",
+      "question": "Which tag defines a table row?",
+      "options": ["<tr>", "<td>", "<table>", "<row>"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag defines a list item?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does the <meta> tag provide?",
+      "options": ["Media settings", "Metadata", "Menu data", "Markup info"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag is used for emphasized text?",
+      "options": ["<em>", "<i>", "<b>", "<strong>"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which element represents navigation links?",
+      "options": ["<navigate>", "<nav>", "<dir>", "<menu>"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which tag is used for content aside from the main content?",
+      "options": ["<extra>", "<aside>", "<left>", "<side>"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag is used to define a footer for a document or section?",
+      "options": ["<bottom>", "<footer>", "<foot>", "<section-footer>"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which attribute defines inline CSS?",
+      "options": ["class", "id", "style", "css"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag groups block elements together?",
+      "options": ["<group>", "<container>", "<section>", "<div>"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag is used to define the main content of a document?",
+      "options": ["<main>", "<body>", "<content>", "<core>"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "hard",
+      "question": "What tag is used for inline code snippets?",
+      "options": ["<pre>", "<script>", "<code>", "<inline>"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What attribute is used to open a link in a new tab?",
+      "options": [
+        "target='_self'",
+        "target='_blank'",
+        "newtab='true'",
+        "rel='new'"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which tag defines a section in a document?",
+      "options": ["<div>", "<span>", "<section>", "<area>"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the correct HTML5 doctype?",
+      "options": [
+        "<!DOCTYPE HTML>",
+        "<DOCTYPE html>",
+        "<!doctype html5>",
+        "<HTML DOCTYPE>"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which tag is used to embed a video?",
+      "options": ["<media>", "<movie>", "<embed>", "<video>"],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which tag is used to define a caption for a table?",
+      "options": ["<caption>", "<title>", "<head>", "<summary>"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which HTML element defines the title of a document?",
+      "options": ["<head>", "<meta>", "<title>", "<header>"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the purpose of the <noscript> tag?",
+      "options": [
+        "Load JS fallback",
+        "Add extra script",
+        "Ignore JS",
+        "Disable scripts"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which tag is used to define a client-side image map?",
+      "options": ["<map>", "<area>", "<imgmap>", "<usemap>"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the purpose of the 'lang' attribute in HTML?",
+      "options": ["Set page language", "Set font", "Set layout", "Set charset"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which element is not supported in HTML5?",
+      "options": ["<center>", "<section>", "<article>", "<nav>"],
+      "correctOption": 0,
+      "points": 30
+    }
+  ],
+  "css": [
+    {
+      "level": "easy",
+      "question": "What does CSS stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Colorful Style System",
+        "Creative Style Syntax",
+        "Computer Style Sheets"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which HTML tag is used to link CSS?",
+      "options": ["<style>", "<css>", "<link>", "<script>"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which property is used to change text color in CSS?",
+      "options": ["font-color", "color", "text-color", "style"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What symbol is used for a class selector in CSS?",
+      "options": ["#", ".", "*", "&"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "How do you select an element by its ID?",
+      "options": [".idName", "#idName", "idName", "$idName"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which property changes the background color?",
+      "options": ["color", "bgcolor", "background", "background-color"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which unit is relative to the parent element's font size?",
+      "options": ["px", "em", "%", "rem"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What property controls the size of text?",
+      "options": ["font-style", "text-size", "font-size", "size"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which CSS property controls spacing inside an element?",
+      "options": ["margin", "padding", "border", "spacing"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What property is used to make text bold?",
+      "options": ["font-weight", "bold", "font-thickness", "text-weight"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "medium",
+      "question": "How to center a block element horizontally?",
+      "options": [
+        "margin: 0 auto",
+        "text-align: center",
+        "align: center",
+        "padding: auto"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What value of 'position' makes an element relative to the browser window?",
+      "options": ["relative", "fixed", "absolute", "static"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which property sets the stacking order of elements?",
+      "options": ["stack", "order", "z-index", "layer"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which pseudo-class selects the first child?",
+      "options": [":first", ":first-child", ":nth-child(1)", ":start"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the default position value in CSS?",
+      "options": ["static", "relative", "absolute", "fixed"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which property hides an element but keeps its space?",
+      "options": [
+        "display: none",
+        "visibility: hidden",
+        "opacity: 0",
+        "hidden: true"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the correct syntax for a media query?",
+      "options": [
+        "@media screen and (max-width: 600px)",
+        "media()",
+        "@query",
+        "@screen(width<600px)"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which property makes an element a flex container?",
+      "options": [
+        "display: block",
+        "display: flex",
+        "position: flex",
+        "flex: container"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which value aligns flex items in the center vertically?",
+      "options": [
+        "justify-content: center",
+        "align-items: center",
+        "align: middle",
+        "center-items"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does 'inherit' do in CSS?",
+      "options": [
+        "Copies parent's property",
+        "Removes style",
+        "Makes default",
+        "Ignores style"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "hard",
+      "question": "Which selector has highest specificity?",
+      "options": ["element", "class", "ID", "inline style"],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What does '!important' do in CSS?",
+      "options": [
+        "Overrides other rules",
+        "Adds importance",
+        "Improves performance",
+        "Breaks inheritance"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What does the 'calc()' function do?",
+      "options": [
+        "Calculates dimensions",
+        "Calls JS",
+        "Rounds numbers",
+        "Combines selectors"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the effect of 'box-sizing: border-box'?",
+      "options": [
+        "Ignores padding",
+        "Includes padding in width",
+        "Adds borders to size",
+        "None of the above"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How to create a grid layout in CSS?",
+      "options": [
+        "display: grid",
+        "layout: grid",
+        "grid: true",
+        "position: grid"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which pseudo-class targets elements on hover?",
+      "options": [":focus", ":hover", ":onhover", ":active"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How to define a custom property (variable) in CSS?",
+      "options": [
+        "--main-color: red",
+        "$main-color: red",
+        "var-main: red",
+        "@color main red"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How to reference a variable in CSS?",
+      "options": [
+        "var(--main-color)",
+        "--main-color",
+        "$main-color",
+        "color(--main)"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which units are relative?",
+      "options": ["px, cm", "em, rem", "vh, vw", "em, cm"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the stacking context in CSS?",
+      "options": [
+        "HTML context",
+        "Flex layout",
+        "Z-order environment",
+        "CSS inheritance"
+      ],
+      "correctOption": 2,
+      "points": 30
+    }
+  ],
+  "js": [
+    {
+      "level": "easy",
+      "question": "What is JavaScript?",
+      "options": [
+        "A database",
+        "A markup language",
+        "A programming language",
+        "A web server"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which of the following is a JavaScript data type?",
+      "options": ["String", "CSS", "HTML", "JSON"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What keyword declares a variable in JavaScript?",
+      "options": ["int", "var", "float", "letvar"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which operator is used to assign a value?",
+      "options": ["==", ":=", "=", "=>"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "How do you write a comment in JavaScript?",
+      "options": [
+        "<!-- comment -->",
+        "# comment",
+        "/* comment */",
+        "// comment"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What method prints to the console?",
+      "options": ["print()", "log()", "console.log()", "echo()"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which is a loop in JavaScript?",
+      "options": ["foreach", "for", "loop", "iterate"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which symbol is used for comments in JavaScript?",
+      "options": ["//", "--", "<!--", "#"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is the correct syntax to call a function named myFunction?",
+      "options": [
+        "call myFunction",
+        "myFunction()",
+        "call.myFunction",
+        "myFunction.call()"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is the output of: typeof 42?",
+      "options": ["string", "number", "object", "boolean"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "medium",
+      "question": "What is the result of '2' + 2 in JavaScript?",
+      "options": ["4", "'4'", "'22'", "NaN"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does NaN mean?",
+      "options": [
+        "Not a Node",
+        "Not a Number",
+        "Null and None",
+        "New and Null"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is a closure?",
+      "options": [
+        "A function inside another function",
+        "A function with access to outer scope",
+        "An object method",
+        "A class method"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "How to convert string to number?",
+      "options": ["parseInt()", "toInt()", "convert()", "strToNum()"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which keyword is used to define a constant?",
+      "options": ["var", "let", "const", "define"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the difference between == and ===?",
+      "options": [
+        "Same",
+        "=== checks type too",
+        "== is strict",
+        "=== is loose"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which method adds a new element at the end of array?",
+      "options": ["push()", "pop()", "shift()", "unshift()"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does the map() method do?",
+      "options": [
+        "Maps DOM",
+        "Iterates and returns new array",
+        "Sorts array",
+        "Filters array"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is event bubbling?",
+      "options": [
+        "Events moving from outer to inner",
+        "Events moving from child to parent",
+        "Stopping event flow",
+        "Repeating events"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the scope of a variable declared with let?",
+      "options": ["Function", "Global", "Block", "Local"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "hard",
+      "question": "What does 'this' refer to in a method?",
+      "options": ["Window", "Caller", "Object it belongs to", "Undefined"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is hoisting in JavaScript?",
+      "options": [
+        "Moving declarations to top",
+        "Removing variables",
+        "Adding comments",
+        "Calling APIs"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which method converts JSON string to object?",
+      "options": [
+        "JSON.toObject()",
+        "JSON.parse()",
+        "parseJSON()",
+        "jsonDecode()"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the output of typeof null?",
+      "options": ["null", "object", "undefined", "NaN"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What does async/await do?",
+      "options": [
+        "Style code",
+        "Write async code cleanly",
+        "Make it faster",
+        "Block code"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is a promise in JS?",
+      "options": [
+        "Object representing eventual completion",
+        "Async variable",
+        "Synchronous function",
+        "DOM element"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How to handle errors in async function?",
+      "options": ["try/catch", "error block", "async block", "catch block"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What does bind() do?",
+      "options": [
+        "Attach event",
+        "Create new function with this bound",
+        "Stop bubbling",
+        "Clear context"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which keyword stops loop?",
+      "options": ["stop", "exit", "break", "quit"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the output of [] == false?",
+      "options": ["true", "false", "error", "undefined"],
+      "correctOption": 0,
+      "points": 30
+    }
+  ],
+  "react": [
+    {
+      "level": "easy",
+      "question": "What is React?",
+      "options": [
+        "A CSS framework",
+        "A JavaScript library",
+        "A database",
+        "A server"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Who developed React?",
+      "options": ["Google", "Twitter", "Facebook", "Microsoft"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is a component in React?",
+      "options": [
+        "A route",
+        "A piece of UI",
+        "A database",
+        "A server function"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "How do you create a React app?",
+      "options": [
+        "npx create-react-app myApp",
+        "npm start",
+        "react create app",
+        "npm install react"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What does JSX stand for?",
+      "options": [
+        "Java Syntax Extension",
+        "JavaScript XML",
+        "JavaScript Extension",
+        "JSON XML"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is used to render React components to the DOM?",
+      "options": [
+        "ReactDOM.render",
+        "React.mount",
+        "React.insert",
+        "ReactDOM.load"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which hook is used to add state to a functional component?",
+      "options": ["useRef", "useEffect", "useState", "useMemo"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which file is the entry point of a React app?",
+      "options": ["App.js", "Index.js", "Main.js", "Start.js"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is the purpose of keys in a list?",
+      "options": [
+        "To style items",
+        "To identify items uniquely",
+        "To delete items",
+        "To update DOM"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is the default port for React app?",
+      "options": ["3000", "8080", "5000", "80"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "medium",
+      "question": "What does useEffect do?",
+      "options": [
+        "Create variables",
+        "Handle side effects",
+        "Add styles",
+        "None of these"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "How do you pass data from parent to child?",
+      "options": ["state", "props", "context", "hook"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which lifecycle method is called after render?",
+      "options": [
+        "componentDidMount",
+        "shouldComponentUpdate",
+        "getDerivedStateFromProps",
+        "componentWillUnmount"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "How do you lift state up?",
+      "options": [
+        "Move state to child",
+        "Use Redux",
+        "Move state to common ancestor",
+        "Use props"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is prop drilling?",
+      "options": [
+        "Passing data deeply via props",
+        "Using context API",
+        "Using hooks",
+        "React routing"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does useRef return?",
+      "options": ["Mutable object", "Array", "Function", "Boolean"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the virtual DOM?",
+      "options": [
+        "Real DOM",
+        "DOM API",
+        "In-memory representation of UI",
+        "Browser Engine"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does React.Fragment do?",
+      "options": [
+        "Create a wrapper without adding extra node",
+        "Add a div",
+        "Delete a node",
+        "Load image"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the purpose of context API?",
+      "options": ["Routing", "State sharing", "API fetching", "Error handling"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does useMemo do?",
+      "options": [
+        "Store state",
+        "Optimize computation",
+        "Fetch data",
+        "Validate form"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "hard",
+      "question": "What is reconciliation in React?",
+      "options": [
+        "Comparing new vs old virtual DOM",
+        "Updating real DOM",
+        "Rendering children",
+        "Mounting components"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which hook replaces componentDidMount?",
+      "options": ["useState", "useContext", "useEffect", "useReducer"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How do you handle performance optimization in React?",
+      "options": [
+        "Avoid props",
+        "Avoid hooks",
+        "Use useMemo and React.memo",
+        "Use CSS"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How can you share logic between components?",
+      "options": ["props", "custom hooks", "states", "DOM"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is React.memo used for?",
+      "options": [
+        "Hide elements",
+        "Memoize components to prevent re-renders",
+        "Create modals",
+        "Optimize styles"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which hook is used for global state management?",
+      "options": ["useGlobal", "useContext", "useLayout", "useManage"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the return type of useState?",
+      "options": ["array", "object", "function", "string"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How do you unmount a component?",
+      "options": [
+        "useUnmount",
+        "componentDidUnmount",
+        "Return cleanup from useEffect",
+        "onDestroy"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is useReducer used for?",
+      "options": [
+        "Fetch data",
+        "Create animations",
+        "Manage complex state",
+        "Handle styles"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which package is used for routing in React?",
+      "options": [
+        "react-router-dom",
+        "react-route",
+        "react-navigator",
+        "react-path"
+      ],
+      "correctOption": 0,
+      "points": 30
+    }
+  ],
+
+  "all": [
+    {
+      "level": "easy",
+      "question": "What does HTML stand for?",
+      "options": [
+        "HyperText Markup Language",
+        "Hyper Transfer Markup Language",
+        "HyperTool Markup Language",
+        "HighText Machine Language"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which HTML tag is used to define a hyperlink?",
+      "options": ["<link>", "<a>", "<href>", "<hyperlink>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which tag is used to insert a line break?",
+      "options": ["<break>", "<br>", "<lb>", "<line>"],
+      "correctOption极": 1,
+      "points": 10,
+      "correctOption": 1
+    },
+    {
+      "level": "easy",
+      "question": "What tag is used for the largest heading?",
+      "options": ["<heading>", "<h1>", "<head>", "<h6>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which attribute specifies an image source?",
+      "options": ["src", "href", "link", "img"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which HTML tag is used to display an image?",
+      "options": ["<image>", "<img>", "<pic>", "<src>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which tag defines an unordered list?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What tag is used to create a table?",
+      "options": ["<table>", "<tab>", "<tbl>", "<tb>"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which tag is used for italic text?",
+      "options": ["<i>", "<em>", "<italic>", "<it>"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What tag creates a numbered list?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "medium",
+      "question": "Which tag defines a table row?",
+      "options": ["<tr>", "<td>", "<table>", "<row>"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag defines a list item?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does the <meta> tag provide?",
+      "options": ["Media settings", "Metadata", "Menu data", "Markup info"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag is used for emphasized text?",
+      "options": ["<em>", "<i>", "<b>", "<strong>"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which element represents navigation links?",
+      "options": ["<navigate>", "<nav>", "<dir>", "<menu>"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which tag is used for content aside from the main content?",
+      "options": ["<extra>", "<aside>", "<left>", "<side>"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag is used to define a footer for a document or section?",
+      "options": ["<bottom>", "<footer>", "<foot>", "<section-footer>"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which attribute defines inline CSS?",
+      "options": ["class", "id", "style", "css"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag groups block elements together?",
+      "options": ["<group>", "<container>", "<section>", "<div>"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What tag is used to define the main content of a document?",
+      "options": ["<main>", "<body>", "<content>", "<core>"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "hard",
+      "question": "What tag is used for inline code snippets?",
+      "options": ["<pre>", "<script>", "<code>", "<inline>"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What attribute is used to open a link in a new tab?",
+      "options": [
+        "target='_self'",
+        "target='_blank'",
+        "newtab='true'",
+        "rel='new'"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which tag defines a section in a document?",
+      "options": ["<div>", "<span>", "<section>", "<area>"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the correct HTML5 doctype?",
+      "options": [
+        "<!DOCTYPE HTML>",
+        "<DOCTYPE html>",
+        "<!doctype html5>",
+        "<HTML DOCTYPE>"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which tag is used to embed a video?",
+      "options": ["<media>", "<movie>", "<embed>", "<video>"],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which tag is used to define a caption for a table?",
+      "options": ["<caption>", "<title>", "<head>", "<summary>"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which HTML element defines the title of a document?",
+      "options": ["<head>", "<meta>", "<title>", "<header>"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the purpose of the <noscript> tag?",
+      "options": [
+        "Load JS fallback",
+        "Add extra script",
+        "Ignore JS",
+        "Disable scripts"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which tag is used to define a client-side image map?",
+      "options": ["<map>", "<area>", "<imgmap>", "<usemap>"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the purpose of the 'lang' attribute in HTML?",
+      "options": ["Set page language", "Set font", "Set layout", "Set charset"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which element is not supported in HTML5?",
+      "options": ["<center>", "<section>", "<article>", "<nav>"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "easy",
+      "question": "What does CSS stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Colorful Style System",
+        "Creative Style Syntax",
+        "Computer Style Sheets"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which HTML tag is used to link CSS?",
+      "options": ["<style>", "<css>", "<link>", "<script>"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which property is used to change text color in CSS?",
+      "options": ["font-color", "color", "text-color", "style"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What symbol is used for a class selector in CSS?",
+      "options": ["#", ".", "*", "&"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "How do you select an element by its ID?",
+      "options": [".idName", "#idName", "idName", "$idName"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which property changes the background color?",
+      "options": ["color", "bgcolor", "background", "background-color"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which unit is relative to the parent element's font size?",
+      "options": ["px", "em", "%", "rem"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What property controls the size of text?",
+      "options": ["font-style", "text-size", "font-size", "size"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which CSS property controls spacing inside an element?",
+      "options": ["margin", "padding", "border", "spacing"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What property is used to make text bold?",
+      "options": ["font-weight", "bold", "font-thickness", "text-weight"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "medium",
+      "question": "How to center a block element horizontally?",
+      "options": [
+        "margin: 0 auto",
+        "text-align: center",
+        "align: center",
+        "padding: auto"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What value of 'position' makes an element relative to the browser window?",
+      "options": ["relative", "fixed", "absolute", "static"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which property sets the stacking order of elements?",
+      "options": ["stack", "order", "z-index", "layer"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which pseudo-class selects the first child?",
+      "options": [":first", ":first-child", ":nth-child(1)", ":start"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the default position value in CSS?",
+      "options": ["static", "relative", "absolute", "fixed"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which property hides an element but keeps its space?",
+      "options": [
+        "display: none",
+        "visibility: hidden",
+        "opacity: 0",
+        "hidden: true"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the correct syntax for a media query?",
+      "options": [
+        "@media screen and (max-width: 600px)",
+        "media()",
+        "@query",
+        "@screen(width<600px)"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which property makes an element a flex container?",
+      "options": [
+        "display: block",
+        "display: flex",
+        "position: flex",
+        "flex: container"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which value aligns flex items in the center vertically?",
+      "options": [
+        "justify-content: center",
+        "align-items: center",
+        "align: middle",
+        "center-items"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does 'inherit' do in CSS?",
+      "options": [
+        "Copies parent's property",
+        "Removes style",
+        "Makes default",
+        "Ignores style"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "hard",
+      "question": "Which selector has highest specificity?",
+      "options": ["element", "class", "ID", "inline style"],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What does '!important' do in CSS?",
+      "options": [
+        "Overrides other rules",
+        "Adds importance",
+        "Improves performance",
+        "Breaks inheritance"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What does the 'calc()' function do?",
+      "options": [
+        "Calculates dimensions",
+        "Calls JS",
+        "Rounds numbers",
+        "Combines selectors"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the effect of 'box-sizing: border-box'?",
+      "options": [
+        "Ignores padding",
+        "Includes padding in width",
+        "Adds borders to size",
+        "None of the above"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How to create a grid layout in CSS?",
+      "options": [
+        "display: grid",
+        "layout: grid",
+        "grid: true",
+        "position: grid"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which pseudo-class targets elements on hover?",
+      "options": [":focus", ":hover", ":onhover", ":active"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How to define a custom property (variable) in CSS?",
+      "options": [
+        "--main-color: red",
+        "$main-color: red",
+        "var-main: red",
+        "@color main red"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How to reference a variable in CSS?",
+      "options": [
+        "var(--main-color)",
+        "--main-color",
+        "$main-color",
+        "color(--main)"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which units are relative?",
+      "options": ["px, cm", "em, rem", "vh, vw", "em, cm"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the stacking context in CSS?",
+      "options": [
+        "HTML context",
+        "Flex layout",
+        "Z-order environment",
+        "CSS inheritance"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "easy",
+      "question": "What is JavaScript?",
+      "options": [
+        "A database",
+        "A markup language",
+        "A programming language",
+        "A web server"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which of the following is a JavaScript data type?",
+      "options": ["String", "CSS", "HTML", "JSON"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What keyword declares a variable in JavaScript?",
+      "options": ["int", "var", "float", "letvar"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which operator is used to assign a value?",
+      "options": ["==", ":=", "=", "=>"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "How do you write a comment in JavaScript?",
+      "options": [
+        "<!-- comment -->",
+        "# comment",
+        "/* comment */",
+        "// comment"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What method prints to the console?",
+      "options": ["print()", "log()", "console.log()", "echo()"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which is a loop in JavaScript?",
+      "options": ["foreach", "for", "loop", "iterate"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which symbol is used for comments in JavaScript?",
+      "options": ["//", "--", "<!--", "#"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is the correct syntax to call a function named myFunction?",
+      "options": [
+        "call myFunction",
+        "myFunction()",
+        "call.myFunction",
+        "myFunction.call()"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is the output of: typeof 42?",
+      "options": ["string", "number", "object", "boolean"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "medium",
+      "question": "What is the result of '2' + 2 in JavaScript?",
+      "options": ["4", "'4'", "'22'", "NaN"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does NaN mean?",
+      "options": [
+        "Not a Node",
+        "Not a Number",
+        "Null and None",
+        "New and Null"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is a closure?",
+      "options": [
+        "A function inside another function",
+        "A function with access to outer scope",
+        "An object method",
+        "A class method"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "How to convert string to number?",
+      "options": ["parseInt()", "toInt()", "convert()", "strToNum()"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which keyword is used to define a constant?",
+      "options": ["var", "let", "const", "define"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the difference between == and ===?",
+      "options": [
+        "Same",
+        "=== checks type too",
+        "== is strict",
+        "=== is loose"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which method adds a new element at the end of array?",
+      "options": ["push()", "pop()", "shift()", "unshift()"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does the map() method do?",
+      "options": [
+        "Maps DOM",
+        "Iterates and returns new array",
+        "Sorts array",
+        "Filters array"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is event bubbling?",
+      "options": [
+        "Events moving from outer to inner",
+        "Events moving from child to parent",
+        "Stopping event flow",
+        "Repeating events"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the scope of a variable declared with let?",
+      "options": ["Function", "Global", "Block", "Local"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "hard",
+      "question": "What does 'this' refer to in a method?",
+      "options": ["Window", "Caller", "Object it belongs to", "Undefined"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is hoisting in JavaScript?",
+      "options": [
+        "Moving declarations to top",
+        "Removing variables",
+        "Adding comments",
+        "Calling APIs"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which method converts JSON string to object?",
+      "options": [
+        "JSON.toObject()",
+        "JSON.parse()",
+        "parseJSON()",
+        "jsonDecode()"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the output of typeof null?",
+      "options": ["null", "object", "undefined", "NaN"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What does async/await do?",
+      "options": [
+        "Style code",
+        "Write async code cleanly",
+        "Make it faster",
+        "Block code"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is a promise in JS?",
+      "options": [
+        "Object representing eventual completion",
+        "Async variable",
+        "Synchronous function",
+        "DOM element"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How to handle errors in async function?",
+      "options": ["try/catch", "error block", "async block", "catch block"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What does bind() do?",
+      "options": [
+        "Attach event",
+        "Create new function with this bound",
+        "Stop bubbling",
+        "Clear context"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which keyword stops loop?",
+      "options": ["stop", "exit", "break", "quit"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the output of [] == false?",
+      "options": ["true", "false", "error", "undefined"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "easy",
+      "question": "What is React?",
+      "options": [
+        "A CSS framework",
+        "A JavaScript library",
+        "A database",
+        "A server"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Who developed React?",
+      "options": ["Google", "Twitter", "Facebook", "Microsoft"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is a component in React?",
+      "options": [
+        "A route",
+        "A piece of UI",
+        "A database",
+        "A server function"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "How do you create a React app?",
+      "options": [
+        "npx create-react-app myApp",
+        "npm start",
+        "react create app",
+        "npm install react"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What does JSX stand for?",
+      "options": [
+        "Java Syntax Extension",
+        "JavaScript XML",
+        "JavaScript Extension",
+        "JSON XML"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is used to render React components to the DOM?",
+      "options": [
+        "ReactDOM.render",
+        "React.mount",
+        "React.insert",
+        "ReactDOM.load"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which hook is used to add state to a functional component?",
+      "options": ["useRef", "useEffect", "useState", "useMemo"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "Which file is the entry point of a React app?",
+      "options": ["App.js", "Index.js", "Main.js", "Start.js"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is the purpose of keys in a list?",
+      "options": [
+        "To style items",
+        "To identify items uniquely",
+        "To delete items",
+        "To update DOM"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "level": "easy",
+      "question": "What is the default port for React app?",
+      "options": ["3000", "8080", "5000", "80"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "level": "medium",
+      "question": "What does useEffect do?",
+      "options": [
+        "Create variables",
+        "Handle side effects",
+        "Add styles",
+        "None of these"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "How do you pass data from parent to child?",
+      "options": ["state", "props", "context", "hook"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "Which lifecycle method is called after render?",
+      "options": [
+        "componentDidMount",
+        "shouldComponentUpdate",
+        "getDerivedStateFromProps",
+        "componentWillUnmount"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "How do you lift state up?",
+      "options": [
+        "Move state to child",
+        "Use Red极ux",
+        "Move state to common ancestor",
+        "Use props"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is prop drilling?",
+      "options": [
+        "Passing data deeply via props",
+        "Using context API",
+        "Using hooks",
+        "React routing"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does useRef return?",
+      "options": ["Mutable object", "Array", "Function", "Boolean"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the virtual DOM?",
+      "options": [
+        "Real DOM",
+        "DOM API",
+        "In-memory representation of UI",
+        "Browser Engine"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does React.Fragment do?",
+      "options": [
+        "Create a wrapper without adding extra node",
+        "Add a div",
+        "Delete a node",
+        "Load image"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What is the purpose of context API?",
+      "options": ["Routing", "State sharing", "API fetching", "Error handling"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "medium",
+      "question": "What does useMemo do?",
+      "options": [
+        "Store state",
+        "Optimize computation",
+        "Fetch data",
+        "Validate form"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "level": "hard",
+      "question": "What is reconciliation in React?",
+      "options": [
+        "Comparing new vs old virtual DOM",
+        "Updating real DOM",
+        "Rendering children",
+        "Mounting components"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which hook replaces componentDidMount?",
+      "options": ["useState", "useContext", "useEffect", "useReducer"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How do you handle performance optimization in React?",
+      "options": [
+        "Avoid props",
+        "Avoid hooks",
+        "Use useMemo and React.memo",
+        "Use CSS"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How can you share logic between components?",
+      "options": ["props", "custom hooks", "states", "DOM"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is React.memo used for?",
+      "options": [
+        "Hide elements",
+        "Memoize components to prevent re-renders",
+        "Create modals",
+        "Optimize styles"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which hook is used for global state management?",
+      "options": ["useGlobal", "useContext", "useLayout", "useManage"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is the return type of useState?",
+      "options": ["array", "object", "function", "string"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "How do you unmount a component?",
+      "options": [
+        "useUnmount",
+        "componentDidUnmount",
+        "Return cleanup from useEffect",
+        "onDestroy"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "What is useReducer used for?",
+      "options": [
+        "Fetch data",
+        "Create animations",
+        "Manage complex state",
+        "Handle styles"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "level": "hard",
+      "question": "Which package is used for routing in React?",
+      "options": [
+        "react-router-dom",
+        "react-route",
+        "react-navigator",
+        "react-path"
+      ],
+      "correctOption": 0,
+      "points": 30
+    }
+  ]
+}
